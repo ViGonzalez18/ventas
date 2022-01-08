@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Auto abandonado",
+      "thumbnailUrl": "https://i.picsum.photos/id/1070/5472/3648.jpg?hmac=oFxAwLeGJmas45_yf5NdpeQzexAF-tMVL6q9JwvSuo0"
+    },
+    {
+      "precio": 1300,
+      "id": 2,
+      "title": "Medusa",
+      "thumbnailUrl": "https://i.picsum.photos/id/1069/3500/2333.jpg?hmac=VBJ1vR2opkcKLS9NKGDl5uPxF02u6dSqbwc1x1b4oJc"
+    },
+    {
+      "precio": 700,
+      "id": 3,
+      "title": "Montaña y río",
+      "thumbnailUrl": "https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I"
+    },
+    {
+      "precio": 1800,
+      "id": 4,
+      "title": "Silencio oscuro",
+      "thumbnailUrl": "https://i.picsum.photos/id/1008/5616/3744.jpg?hmac=906z84ml4jhqPMsm4ObF9aZhCRC-t2S_Sy0RLvYWZwY"
+    },
+    {
+      "precio": 1150,
+      "id": 5,
+      "title": "Silencio claro",
+      "thumbnailUrl": "https://i.picsum.photos/id/1014/6016/4000.jpg?hmac=yMXsznFliL_Y2E2M-qZEsOZE1micNu8TwgNlHj7kzs8"
+    },
+    {
+      "precio": 800,
+      "id": 6,
+      "title": "Nubes",
+      "thumbnailUrl": "https://i.picsum.photos/id/1006/3000/2000.jpg?hmac=x83pQQ7LW1UTo8HxBcIWuRIVeN_uCg0cG6keXvNvM8g"
+    }
+  ]
